@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="middle">营养素含量(每100克)</string>
+    <string name="text1">本软件提供关于各类食物不适宜搭配的相关信息为收集整理的各种中医资料所得，本软件不保证其科学性以及严谨性，仅供参考之用</string>
+    <string name="fragment_oneth">碳水化合物界面</string>
+
+</resources>
